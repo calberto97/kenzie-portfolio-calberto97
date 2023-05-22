@@ -32,7 +32,8 @@ export const LogoTipoImage = styled("img", {
   "@mobile": {
     width: "2.25rem",
     height: "2.25rem",
-  }
+  },
+  outline: "3px solid $brand1"
 });
 
 export const LogoTipoText = styled("span", {
